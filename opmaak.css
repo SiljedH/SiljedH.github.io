@@ -12,10 +12,11 @@ ul {
   color:blueviolet;
 }
 li {
-  display: inline;
+  float:left;
 
 }
 li a {
   display: block;
-  padding: 20px
+  padding: 20px;
+  background-color: lightblue;
 }
