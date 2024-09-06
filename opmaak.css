@@ -25,6 +25,7 @@ li a { /*één pagina van het menu*/
 }
 li a:hover { /*hover*/
   background-color:rgb(253, 210, 216);  
+  background-color:cyan;
 }
 img{
   float:left;
