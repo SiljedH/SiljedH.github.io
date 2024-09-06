@@ -18,7 +18,7 @@ li { /*menu*/
 
 }
 li a { /*één pagina van het menu*/
-  display: block;
+  display:block;
   padding: 14px 50px;
   color:rgb(255, 253, 255);
   text-align: center;
