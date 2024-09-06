@@ -27,6 +27,6 @@ li a:hover { /*hover*/
   background-color:rgb(253, 210, 216);  
   background-color:cyan;
 }
-img{
+img{ /*plaatje hond*/
   float:left;
 }
