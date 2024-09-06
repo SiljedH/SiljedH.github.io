@@ -19,7 +19,7 @@ li { /*menu*/
 }
 li a { /*één pagina van het menu*/
   display: block;
-  padding: 14px 16px;
+  padding: 14px 30px;
   color:rgb(255, 253, 255);
   text-align: center;
 }
