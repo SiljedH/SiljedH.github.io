@@ -1,9 +1,10 @@
 body {
-  background-color:lightpink; /*Achtergrond kleur*/
+  background-color:rgb(255, 228, 232); /*Achtergrond kleur*/
   color:darkblue;
 }
 p {
   color:rgb(20, 97, 81);
+  float:left;
 }
 ul { /*menu*/
   list-style-type: none;
