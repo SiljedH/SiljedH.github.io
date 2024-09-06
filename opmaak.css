@@ -3,7 +3,7 @@ body {
   color:darkblue;
 }
 p {
-  color:rgb(20, 97, 81);
+  color:rgb(20, 97, 81); /*paragraaf*/
   float:left;
 }
 ul { /*menu*/
@@ -13,17 +13,17 @@ ul { /*menu*/
   overflow: hidden;
   background-color:rgb(6, 89, 32);
 }
-li {
+li { /*menu*/
   float:left;
 
 }
-li a {
+li a { /*één pagina van het menu*/
   display: block;
   padding: 14px 16px;
   color:rgb(255, 253, 255);
   text-align: center;
 }
-li a:hover {
+li a:hover { /*hover*/
   background-color: #000000;  
 }
 img{
