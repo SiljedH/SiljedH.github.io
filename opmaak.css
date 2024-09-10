@@ -28,10 +28,10 @@ li a:hover { /*hover*/
   background-color:lightpink
 }
 
-.active{
+.active {
   background-color: lightpink;
 }
 
-img{ /*plaatje hond*/
+img { /*plaatje hond*/
   float:left;
 }
