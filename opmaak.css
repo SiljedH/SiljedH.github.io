@@ -27,6 +27,11 @@ li a:hover { /*hover*/
   background-color:rgb(253, 210, 216);  
   background-color:lightpink
 }
+
+.active{
+  background-color: lightpink;
+}
+
 img{ /*plaatje hond*/
   float:left;
 }
