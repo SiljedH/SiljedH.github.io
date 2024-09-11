@@ -3,7 +3,8 @@ body {
 }
 
 H1{
-  color:black
+  color:black;
+  padding:lightpink;
 }
 
 p {
