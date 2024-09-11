@@ -1,7 +1,11 @@
 body {
   background-color:rgb(253, 210, 216); /*Achtergrond kleur*/
-  color:darkblue;
 }
+
+H1{
+  color:black
+}
+
 p {
   color:rgb(20, 97, 81); /*paragraaf*/
   float:left;
@@ -11,7 +15,7 @@ ul { /*menu*/
   margin: 0;
   padding: 0;
   overflow: hidden;
-  background-color:rgb(6, 89, 32);
+  background-color:rgb(20, 71, 158);
 }
 li { /*menu*/
   float:left;
