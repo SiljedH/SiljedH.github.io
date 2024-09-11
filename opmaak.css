@@ -39,7 +39,7 @@ li a:hover { /*hover*/
   background-color:lightpink
 }
 
-#image2 { /*plaatje hond*/
+.hondje { /*plaatje hond*/
   float:right;
   margin-top:10px;
 }
