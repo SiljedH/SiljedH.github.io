@@ -28,7 +28,7 @@ li a:hover { /*hover*/
   background-color:lightpink
 }
 
-.active {
+li a:hover.active {
   background-color: lightpink;
 }
 
