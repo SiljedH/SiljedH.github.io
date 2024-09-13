@@ -44,6 +44,10 @@ li a:hover { /*hover*/
   margin-top:10px;
 }
 
+.uitlegbinair {
+  float: right;
+}
+
 .spelbinair{
   display:block;
   margin-left:auto;
