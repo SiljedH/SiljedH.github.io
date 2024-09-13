@@ -53,11 +53,11 @@ li a:hover { /*hover*/
   margin-top:10px;
 }
 
-.uitlegbinair {
+.uitlegbinair { /*plaatje uitleg binair stelsel*/
   float: right;
 }
 
-.spelbinair{
+.spelbinair{ /*spelletje binair stelsel*/
   display:block;
   margin-left:auto;
   margin-right:auto;
