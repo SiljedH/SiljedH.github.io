@@ -69,5 +69,6 @@ li a:hover { /*hover*/
 margin-top:40px;
 border: 10px;
 border-color:darkblue;
+padding: 10px;
 float:right;
 }
