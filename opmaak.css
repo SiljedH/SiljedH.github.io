@@ -23,6 +23,12 @@ p {
   margin-left:2%;
 }
 
+.div {
+  width:50%;
+  color:black;
+  background-color:lightpink;
+}
+
 .extra{
   margin-top: 15px;
   float:right;
