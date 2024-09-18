@@ -25,6 +25,8 @@ p {
 
 .extra{
   margin-top: 15px;
+  float:right;
+  width:50%;
 }
 
 ul { /*menu*/
