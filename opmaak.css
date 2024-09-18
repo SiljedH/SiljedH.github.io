@@ -23,10 +23,10 @@ p {
   margin-left:2%;
 }
 
-div { /*paragrafen binair stelsel*/
-  width:50%;
-  color:black;
-  background-color:lightpink;
+.binair2 {
+  margin-left:auto;
+  margin-right:auto;
+  width:75%;
 }
 
 .extra{ /*paragraaf kleurmodellen*/
