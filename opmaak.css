@@ -18,18 +18,18 @@ p {
   width:50%
 }
 
-.binair1 {
+.binair1 { /*eerste paragraaf binair stelsel*/
   width:50%;
   margin-left:2%;
 }
 
-div {
+div { /*paragrafen binair stelsel*/
   width:50%;
   color:black;
   background-color:lightpink;
 }
 
-.extra{
+.extra{ /*paragraaf kleurmodellen*/
   margin-top: 15px;
   float:right;
   width:50%;
