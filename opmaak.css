@@ -29,6 +29,10 @@ p {
   width:75%;
 }
 
+div{
+  margin-left:2%;
+}
+
 .extra{ /*paragraaf kleurmodellen*/
   margin-top: 15px;
   float:right;
