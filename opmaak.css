@@ -17,10 +17,12 @@ p {
 .kleur{ /*paragraaf kleurmodellen*/
   width:50%;
   font-size:20px;
+  margin-left:2%;
 }
 .kleur2{
   width:50%;
   font-size:20px;
+  margin-left:2%;
 }
 
 .binair1 { /*eerste paragraaf binair stelsel*/
