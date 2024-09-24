@@ -129,10 +129,10 @@ border-color:rgb(20, 71, 158);
 float:right;
 }
 
-.vormen {
+.vormen { /*plaatje opslaan vectorafbeelding*/
   margin-left:2%;
 }
 
-.verschil_b_v {
+.verschil_b_v { /*verschil bitmap- en vectorafbeelding*/
   margin-left:2%;
 }
