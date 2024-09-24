@@ -12,6 +12,7 @@ h1{
 p {
   color:rgb(0, 0, 0); /*paragraaf*/
   float:left;
+  font-size:20px;
 }
 
 .kleur{ /*paragraaf kleurmodellen*/
