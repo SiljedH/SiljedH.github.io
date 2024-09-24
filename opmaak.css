@@ -92,6 +92,10 @@ li a:hover { /*hover*/
 
 .filmpjebinair {
   margin:10px;
+  display:block;
+  margin-left:auto;
+  margin-right:auto;
+  width:50%;
 }
 
 .spelbinair{ /*spelletje binair stelsel*/
