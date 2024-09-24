@@ -31,6 +31,7 @@ p {
 .binair1 { /*eerste paragraaf binair stelsel*/
   width:50%;
   margin-left:2%;
+  font-size:20px;
 }
 
 .binair2 {
@@ -38,10 +39,12 @@ p {
   border:2px;
   border-color:darkblue;
   padding:5px;
+  font-size:20px;
 }
 
 div{
   margin-left:2%;
+  font-size:20px;
 }
 
 .extra{ /*paragraaf kleurmodellen*/
