@@ -87,6 +87,11 @@ div{ /*paragrafen binair stelstel*/
   font-size:20px;
 }
 
+.p_vorm {
+  width:50%;
+  float:right;
+}
+
 ul { /*menu*/
   list-style-type: none;
   margin: 0;
