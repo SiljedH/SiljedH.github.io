@@ -34,6 +34,8 @@ p {
   width:50%;
   font-size:20px;
   margin-left:2%;
+  border:3px;
+  border-color:rgb(20, 71, 158)
 }
 .kleur2{
   width:50%;
