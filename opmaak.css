@@ -20,8 +20,8 @@ p {
 
 .subkop {/*subkopjes*/
   font-size:25px;
-  color:rgb(255, 253, 255);
-  background-color: rgb(20, 71, 158);
+  color:rgb(0, 0, 0);
+  background-color:lightpink;
   display:block;
   padding:5px;
 }
