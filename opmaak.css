@@ -88,6 +88,12 @@ div{ /*paragrafen binair stelstel*/
   font-size:20px;
 }
 
+.div {
+  border-style: solid;
+  border:3px;
+  border-color:black;
+}
+
 .p_vorm {
   width:50%;
   float:right;
