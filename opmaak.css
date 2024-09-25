@@ -69,6 +69,7 @@ p {
 .binair2 { /*tweede paragraaf binair stelsel*/
   text-align:center;
   border:2px;
+  border-style:dotted;
   border-color:darkblue;
   padding:5px;
   font-size:20px;
