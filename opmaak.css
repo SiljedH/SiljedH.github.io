@@ -19,6 +19,7 @@ p {
 }
 
 .subkop {/*subkopjes*/
+  font-size:25px;
   color:rgb(0, 0, 0);
   background-color:lightpink;
   display:block;
