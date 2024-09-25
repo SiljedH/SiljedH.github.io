@@ -31,8 +31,10 @@
                 Wel gaat hierdoor de kwaliteit achteruit. In het plaatje met de bloem zie je dat hoe verder de compressie gaat, hoe verder de kwaliteit van de afbeelding
                 achteruit gaat. Wel zie je dat in het begin het verschil bijna niet te zien is.
               </p>
-              <p>Bij lossless compression wordt geen informatie verwijderd en de originele kwaliteit
-                wordt niet beïnvloed. Hierbij worden de pixels die naast elkaar zitten en dezelfde kleur hebben, anders opgeslagen.
+              <p>Bij lossless compression wordt geen informatie verwijderd en de originele kwaliteit wordt niet beïnvloed. Hierbij worden de pixels die naast elkaar zitten en dezelfde kleur hebben, anders opgeslagen.
+                Als er in een afbeelding 4 pixels dezelfde waarde (36) hebben, wordt dit opgeslagen als (4,36), terwijl dit normaal opgeslagen zou worden
+                als (36,36,36,36). Lossless compresion neemt dus veel minder opslagruimte in. Een voordeel is dus dat de kwaliteit niet naar beneden gaat.
+                Een ander voordeel hiervan is dat het altijd weer kan worden teruggedraaid. Dit is bij lossy compression niet mogelijk, omdat hierbij informatie verwijderd is.
               </p>
             </div>
             
@@ -43,9 +45,6 @@
             </div>
 
             <img class="uitlegbinair" src="../plaatjes/image.png"" alt="Afbeelding niet beschikbaar" width="375" height="400"><!--plaatje-->
-        <p class="vid">
-            Om het bestand minder groot te maken, kan informatie worden verwijderd. Zo hoeft een lucht niet uit 
-            50 verschillende tinten te bestaan, maar uit 20.
         </p>
 
     </body>
