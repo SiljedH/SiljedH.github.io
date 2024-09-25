@@ -23,13 +23,25 @@ p {
   margin-bottom:2px;
   background-color: rgb(20, 71, 158);
   display:block;
-  margin:5px;
+  padding:5px;
 }
 
 .voorstellen {
   width:50%;
   font-size:20px;
   margin-left:2%;
+}
+
+.huisdieren {
+  margin:2px;
+  font-size:20px;
+  width:50%;
+}
+
+.hobbys {
+  margin:2px;
+  font-size:20px;
+  width:50%;
 }
 
 .kleur{ /*paragraaf kleurmodellen*/
