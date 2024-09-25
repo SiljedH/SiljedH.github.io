@@ -19,8 +19,9 @@ p {
 
 .subkop {
   font-size:25px;
+  color:black;
   margin-bottom:2px;
-  background-color:lightblue;
+  background-color: rgb(20, 71, 158);
   display:block;
 }
 
