@@ -99,6 +99,7 @@ div{ /*paragrafen binair stelstel*/
 .p_vorm {
   width:50%;
   float:right;
+  margin-right:5%;
 }
 
 ul { /*menu*/
