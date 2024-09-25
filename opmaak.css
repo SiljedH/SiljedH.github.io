@@ -141,4 +141,6 @@ margin-right:5%;
 
 .verschil_b_v { /*verschil bitmap- en vectorafbeelding*/
   margin-left:2%;
+  border:3px solid;
+  border-color:black;
 }
