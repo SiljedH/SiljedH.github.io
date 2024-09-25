@@ -2,7 +2,7 @@ body {
   background-color:rgb(253, 210, 216); /*Achtergrond kleur*/
 }
 
-h1{
+h1{ /*titel per pagina*/
   color:black;
   padding:lightpink;
   margin-bottom: 10px;
@@ -17,7 +17,7 @@ p {
   margin-left:2%;
 }
 
-.subkop {
+.subkop {/*subkopjes*/
   font-size:25px;
   color:rgb(255, 253, 255);
   background-color: rgb(20, 71, 158);
