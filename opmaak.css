@@ -188,6 +188,11 @@ margin-right:5%;
   border:3px solid;
   border-color:black;
 }
+.bloem{
+  margin-left:2%;
+  border:3px solid;
+  border-color:black;
+}
 
 /* Create three equal columns that floats next to each other */
 .column {
