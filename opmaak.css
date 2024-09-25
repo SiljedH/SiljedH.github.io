@@ -26,7 +26,7 @@ p {
 }
 
 .voorstellen {
-  width:50%;
+  width:60%;
   font-size:20px;
   margin-left:2%;
 }
@@ -34,13 +34,13 @@ p {
 .huisdieren {
   margin:2px;
   font-size:20px;
-  width:50%;
+  width:60%;
 }
 
 .hobbys {
   margin:2px;
   font-size:20px;
-  width:50%;
+  width:60%;
 }
 
 .kleur{ /*paragraaf kleurmodellen*/
