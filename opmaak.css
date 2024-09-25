@@ -24,6 +24,11 @@ p {
   display:block;
   padding:5px;
 }
+.footer {
+  background-color:rgb(20, 71, 158);
+  padding:10px;
+  text-align:center;
+}
 
 .voorstellen {
   width:60%;
