@@ -108,7 +108,7 @@ li a { /*één pagina van het menu*/
   padding: 14px 50px;
   color:rgb(255, 253, 255);
   text-align: center;
-  font-size:25px;
+  font-size:20px;
 }
 li a:hover { /*hover*/
   background-color:rgb(253, 210, 216);  
