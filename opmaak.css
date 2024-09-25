@@ -18,8 +18,7 @@ p {
   margin-right:2%;
 }
 
-.subkop {/*subkopjes*/
-  font-size:25px;
+h2 {/*subkopjes*/
   color:rgb(0, 0, 0);
   background-color:lightpink;
   display:block;
