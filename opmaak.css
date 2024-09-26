@@ -167,7 +167,6 @@ li a:hover { /*hover*/
   bottom: 0;
 }
 .cirkels { /*plaatje kleurencirkels*/
-margin-top:20px;
 border: 3px solid;
 border-color:rgb(20, 71, 158);
 float:right;
