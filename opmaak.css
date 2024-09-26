@@ -106,6 +106,7 @@ p {
 .samplerate { /*laatste paragraaf bitmap- en vectorafbeeldingen over sample rate*/
   float:right;
   width:45%;
+  margin-top:20px;
 }
 
 ul { /*menu*/
