@@ -58,6 +58,7 @@ p {
   border:3px;
   border-color:rgb(20, 71, 158);
   border-style:groove;
+  padding:5px;
 }
 .kleur2{ /*tweede paragraaf kleurmodellen, mengen van kleuren*/
   width:50%;
