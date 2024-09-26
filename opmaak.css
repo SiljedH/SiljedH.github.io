@@ -103,6 +103,11 @@ div {
   margin-right:5%;
 }
 
+.samplerate {
+  float:right;
+  width:40%;
+}
+
 ul { /*menu*/
   list-style-type: none;
   margin: 0;
