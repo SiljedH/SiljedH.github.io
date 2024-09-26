@@ -182,6 +182,7 @@ li a:hover { /*hover*/
 border: 3px solid;
 border-color:rgb(20, 71, 158);
 float:right;
+margin-right:5%;
 }
 
 .vormen { /*plaatje opslaan vectorafbeelding*/
