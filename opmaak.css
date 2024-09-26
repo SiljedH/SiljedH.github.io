@@ -24,6 +24,7 @@ p {
   background-color:lightpink;
   display:block;
   padding:5px;
+  font-family:cursive;
 }
 .footer {
   background-color:rgb(20, 71, 158);
