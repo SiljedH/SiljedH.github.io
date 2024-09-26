@@ -94,7 +94,7 @@ p {
 }
 
 .p_vorm { /*paragraaf bitmap- en vectorafbeeldingen, 2 manieren opslaan*/
-  width:50%;
+  width:65%;
   float:right;
   margin-right:5%;
   border-style: solid;
