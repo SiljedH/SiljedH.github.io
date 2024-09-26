@@ -63,6 +63,13 @@ p {
   font-size:20px;
   margin-left:2%;
 }
+.extra{ /*laatste paragraaf kleurmodellen, CMY*/
+  margin-top: 5px;
+  margin-left:2%;
+  width:50%;
+  padding-top:10%;
+  font-size:20px;
+}
 .binairkop{ /*tekst onder titel bij binair stelsel*/
   font-size:20px;
   text-align:center;
@@ -70,13 +77,13 @@ p {
   background-color:rgba(20, 71, 158, 0.383);
   display:block;
 }
-.binair1 { /*eerste paragraaf binair stelsel*/
+.binair1 { /*eerste paragraaf binair stelsel, verschil getallensysteem*/
   width:60%;
   margin-left:2%;
   font-size:20px;
 }
 
-.binair2 { /*tweede paragraaf binair stelsel*/
+.binair2 { /*laatste paragraaf binair stelsel, boven spel*/
   text-align:center;
   border:2px;
   border-style:dotted;
@@ -84,14 +91,6 @@ p {
   padding:10px;
   font-size:20px;
   margin-left:10px;
-}
-
-.extra{ /*paragraaf kleurmodellen*/
-  margin-top: 5px;
-  margin-left:2%;
-  width:50%;
-  padding-top:10%;
-  font-size:20px;
 }
 
 .p_vorm {
