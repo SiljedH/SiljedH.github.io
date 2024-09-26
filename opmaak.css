@@ -93,7 +93,7 @@ p {
   margin-left:10px;
 }
 
-.p_vorm {
+.p_vorm { /*paragraaf bitmap- en vectorafbeeldingen, 2 manieren opslaan*/
   width:50%;
   float:right;
   margin-right:5%;
@@ -102,9 +102,9 @@ p {
   border-color:black;
 }
 
-.samplerate {
+.samplerate { /*laatste paragraaf bitmap- en vectorafbeeldingen over sample rate*/
   float:right;
-  width:40%;
+  width:45%;
 }
 
 ul { /*menu*/
