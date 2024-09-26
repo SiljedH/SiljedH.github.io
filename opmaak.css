@@ -76,6 +76,9 @@ p {
   margin-left:2%;
   background-color:rgba(20, 71, 158, 0.383);
   display:block;
+  border-style:solid;
+  border:3px;
+  border-color:rgba(20, 71, 158, 0.904);
 }
 .binair1 { /*eerste paragraaf binair stelsel, verschil getallensysteem*/
   width:60%;
