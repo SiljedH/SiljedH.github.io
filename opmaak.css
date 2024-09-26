@@ -83,11 +83,6 @@ p {
   margin-left:10px;
 }
 
-div{ /*paragrafen binair stelstel*/
-  margin-left:2%;
-  font-size:20px;
-}
-
 .extra{ /*paragraaf kleurmodellen*/
   margin-top: 5px;
   margin-left:2%;
@@ -96,7 +91,7 @@ div{ /*paragrafen binair stelstel*/
   font-size:20px;
 }
 
-.div {
+div {
   border-style: solid;
   border:3px;
   border-color:black;
