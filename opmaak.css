@@ -93,16 +93,13 @@ p {
   font-size:20px;
 }
 
-div {
-  border-style: solid;
-  border:3px;
-  border-color:black;
-}
-
 .p_vorm {
   width:50%;
   float:right;
   margin-right:5%;
+  border-style: solid;
+  border:3px;
+  border-color:black;
 }
 
 .samplerate {
