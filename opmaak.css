@@ -33,37 +33,37 @@ p {
   text-align:center;
 }
 
-.voorstellen {
+.voorstellen { /*eerste tekst over mezelf, het voorstellen*/
   width:60%;
   font-size:20px;
   margin-left:2%;
 }
 
-.huisdieren {
+.huisdieren { /*paragraaf over huisdieren*/
   margin-left:2%;
   font-size:20px;
   width:60%;
 }
 
-.hobbys {
+.hobbys { /*paragraaf over hobby's*/
   margin-left:2%;
   font-size:20px;
   width:60%;
 }
 
-.kleur{ /*paragraaf kleurmodellen*/
+.kleur1{ /*eerst paragraaf kleurmodellen*/
   width:50%;
   font-size:20px;
   margin-left:2%;
   border:3px;
   border-color:rgb(20, 71, 158)
 }
-.kleur2{
+.kleur2{ /*tweede paragraaf kleurmodellen, mengen van kleuren*/
   width:50%;
   font-size:20px;
   margin-left:2%;
 }
-.binairkop{
+.binairkop{ /*tekst onder titel bij binair stelsel*/
   font-size:20px;
   text-align:center;
   margin-left:2%;
