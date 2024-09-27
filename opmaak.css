@@ -129,6 +129,7 @@ p {
 
 .compressie {
   background-color:lightpink;
+  border-radius:15px; /*afronding van hoekjes achtergrond*/
   padding:10px;
   font-size:20px;
 }
