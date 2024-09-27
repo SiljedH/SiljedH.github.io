@@ -216,10 +216,10 @@ margin-bottom:5px; /*ruimte tussen onderkant afbeelding en tekst*/
   margin-left:2%; /*ruimte tussen linkerkant van pagina en afbeelding*/
   border:3px solid; /*dikte en stijl rand rond afbeelding*/
   border-color:black;  /*kleur rand rond afbeelding*/
-  float:right;
+  float:right; /*afbeelding begint aan de rechterkant van de pagina*/
 }
 
 .compressie1 {
   width:50%;
-  float:left;
+  float:left; /*tekst begint aan de linkerkant van de pagina*/
 }
