@@ -178,7 +178,7 @@ li a:hover { /*hover*/
   margin-left:auto;
   margin-right:auto;
   width:50%;
-  margin-bottom:3px;
+  margin-bottom:3px; /*ruimte tussen onderkant video en footer*/
 }
 
 .spelbinair{ /*spelletje binair stelsel*/
