@@ -60,6 +60,11 @@ p {
   width:60%;
 }
 
+.algemeen{
+  background-color:darksalmon;
+  
+}
+
 .kleur1{ /*eerst paragraaf kleurmodellen*/
   font-size:20px;
   margin-left:2%;
