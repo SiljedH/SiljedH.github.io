@@ -218,7 +218,10 @@ margin-bottom:5px; /*ruimte tussen onderkant afbeelding en tekst*/
   border-color:black;  /*kleur rand rond afbeelding*/
 }
 
-.column { /*kolom bij compressie*/
+.column1 { /*kolom bij compressie*/
   width: 50%; /*breedte van de tekst*/
-  padding: 15px;
+}
+
+.column2 {
+  width:50%;
 }
