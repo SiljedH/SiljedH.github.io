@@ -65,6 +65,7 @@ p {
   background-color:rgb(240, 152, 196); /*achtergrond kleur tekst*/
   border-radius:15px; /*afronding van hoekjes achtergrond*/
   padding:20px; /*ruimte tussen tekst en zijkant achtergrond kleur*/
+  font-size:20px; /*letter grootte*/
 }
 
 .kleur1{ /*eerst paragraaf kleurmodellen*/
@@ -116,12 +117,14 @@ p {
   float:right; /*paragraaf komt aan de rechterkant van de pagina*/
   margin-right:5%; /*ruimte tussen rechterkant van pagina en tekst*/
   margin-top:50px; /*ruimte tussen tekst en tekst erboven*/
+  font-size:20px; /*letter grootte*/
 }
 
 .samplerate { /*laatste paragraaf bitmap- en vectorafbeeldingen over sample rate*/
   float:right; /*paragraaf komt aan de rechterkant van de pagina*/
   width:45%; /*breedte van de tekst*/
   margin-top:40px; /*ruimte tussen tekst en tekst erboven*/
+  font-size:20px; /*letter grootte*/
 }
 
 .compressie {
