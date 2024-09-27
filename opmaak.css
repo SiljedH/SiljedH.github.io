@@ -3,18 +3,18 @@ body {
 }
 
 h1{ /*titel per pagina*/
-  color:black;
+  color:black; /*kleur van de tekst*/
   padding:lightpink;
   margin-bottom: 10px;
   margin-left: 20px;
   margin-top:20px;
-  font-family:fantasy;
+  font-family:fantasy; /*lettertype*/
 }
 
 p {
   color:rgb(0, 0, 0); /*paragraaf*/
   float:left;
-  font-size:20px;
+  font-size:20px; /*lettergrootte*/
   margin-left:2%;
   margin-right:2%;
 }
@@ -25,11 +25,11 @@ p {
   background-color:lightpink;
   display:block;
   padding:5px;
-  font-family:cursive;
+  font-family:cursive; /*lettertype*/
 }
 .footer {
   background-color:rgb(20, 71, 158);
-  color:white;
+  color:white; /*tekstkleur*/
   padding:10px;
   text-align:center;
   display:block;
