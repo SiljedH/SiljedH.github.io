@@ -102,13 +102,13 @@ p {
 
 .binair2 { /*laatste paragraaf binair stelsel, boven spel*/
   text-align:center;
-  border:2px;
-  border-style:dotted;
-  border-color:darkblue;
-  padding:10px;
+  border:2px; /*dikte rand rond tekst*/
+  border-style:dotted; /*stijl rand rond tekst*/
+  border-color:darkblue; /*kleur rand rond tekst*/
+  padding:10px; /*ruimte tussen rand en tekst*/
   font-size:20px; /*letter grootte*/
-  margin-left:25%;
-  width:50%; /*breedte van de tekst*/
+  margin-left:20%; /*ruimte tussen linkerkant van pagina en tekst*/
+  width:60%; /*breedte van de tekst*/
 }
 
 .p_vorm { /*paragraaf bitmap- en vectorafbeeldingen, 2 manieren opslaan*/
