@@ -115,10 +115,7 @@ p {
   width:60%; /*breedte van de tekst*/
   float:right;
   margin-right:5%; /*ruimte tussen rechterkant van pagina en tekst*/
-  margin-top:50px;
-  border-style: solid;
-  border:3px;
-  border-color:black;
+  margin-top:50px; /*ruimte tussen tekst en tekst erboven*/
 }
 
 .samplerate { /*laatste paragraaf bitmap- en vectorafbeeldingen over sample rate*/
