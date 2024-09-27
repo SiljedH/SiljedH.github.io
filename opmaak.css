@@ -90,7 +90,7 @@ p {
   font-size:23px; /*letter grootte*/
   text-align:center;
   margin-left:2%; /*ruimte tussen linkerkant van pagina en tekst*/
-  background-color:rgba(20, 71, 158, 0.383);
+  background-color:rgba(20, 71, 158, 0.383); /*achtergrond kleur tekst*/
   display:block;
   padding:15px; /*ruimte tussen tekst en zijkant achtergrond kleur*/
   border-radius:15px; /*afronding van hoekjes achtergrond*/
@@ -128,10 +128,10 @@ p {
 }
 
 .compressie {
-  background-color:lightpink;
+  background-color:lightpink; /*achtergrond kleur tekst*/
   border-radius:15px; /*afronding van hoekjes achtergrond*/
-  padding:10px;
-  font-size:20px;
+  padding:10px; /*ruimte tussen rand en tekst*/
+  font-size:20px; /*letter grootte*/
 }
 
 ul { /*menu*/
