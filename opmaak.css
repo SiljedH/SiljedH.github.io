@@ -157,7 +157,7 @@ li a:hover { /*hover*/
 .nova { /*plaatje hond*/
   float:right;
   margin-right:2%; /*ruimte tussen rechterkant van pagina en afbeelding*/
-  margin-top:10px;
+  margin-top:10px; /*ruimte tussen het menu en het plaatje*/
 }
 
 .uitlegbinair { /*plaatje uitleg binair stelsel*/
@@ -173,7 +173,7 @@ li a:hover { /*hover*/
   width:50%;
 }
 
-.vid_kleur {
+.vid_kleur { /*filmpje uitleg over verschil tussen RGB en CMYK*/
   display:block;
   margin-left:auto;
   margin-right:auto;
@@ -185,7 +185,7 @@ li a:hover { /*hover*/
   margin-left:auto;
   margin-right:auto;
   width:50%;
-  margin-bottom:3px;
+  margin-bottom:5px;
 }
 .cirkels { /*plaatje kleurencirkels*/
 border: 3px solid;
