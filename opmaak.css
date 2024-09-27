@@ -104,6 +104,7 @@ p {
   padding:10px;
   font-size:20px;
   margin-left:10px;
+  left:50%;
 }
 
 .p_vorm { /*paragraaf bitmap- en vectorafbeeldingen, 2 manieren opslaan*/
