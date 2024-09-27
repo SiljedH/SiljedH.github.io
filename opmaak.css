@@ -24,8 +24,9 @@ p {
   color:rgb(0, 0, 0);
   background-color:lightpink;
   display:block;
-  padding:5px;
   font-family:cursive; /*lettertype*/
+  border-radius:15px; /*afronding van hoekjes achtergrond*/
+  padding:20px; /*ruimte tussen tekst en zijkant achtergrond kleur*/
 }
 .footer {
   background-color:rgb(20, 71, 158);
