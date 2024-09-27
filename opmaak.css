@@ -128,6 +128,8 @@ p {
   border-style:dotted; /*dikte rand rond tekst*/
   border:3px; /*dikte rand rond tekst*/
   border-color:lightpink; /*kleur rand rond tekst*/
+  padding:10px;
+  font-size:20px;
 }
 
 ul { /*menu*/
