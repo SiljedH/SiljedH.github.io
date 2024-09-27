@@ -125,7 +125,7 @@ p {
 }
 
 .compressie {
-  border-style:dotted; /*dikte rand rond tekst*/
+  border-style:dashed; /*dikte rand rond tekst*/
   border:3px; /*dikte rand rond tekst*/
   border-color:lightpink; /*kleur rand rond tekst*/
   padding:10px;
