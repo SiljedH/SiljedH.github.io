@@ -29,6 +29,7 @@ p {
 }
 .footer {
   background-color:rgb(20, 71, 158);
+  color:white;
   padding:10px;
   text-align:center;
 }
