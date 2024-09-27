@@ -219,9 +219,5 @@ margin-bottom:5px; /*ruimte tussen onderkant afbeelding en tekst*/
 }
 
 .column1 { /*kolom bij compressie*/
-  width: 50%; /*breedte van de tekst*/
-}
-
-.column2 {
-  width:50%
+  color:blueviolet;
 }
