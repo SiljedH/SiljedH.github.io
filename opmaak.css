@@ -107,13 +107,14 @@ p {
   border-color:darkblue;
   padding:10px;
   font-size:20px;
-  margin-left:50%;
+  margin-left:25%;
+  width:50%;
 }
 
 .p_vorm { /*paragraaf bitmap- en vectorafbeeldingen, 2 manieren opslaan*/
   width:60%;
   float:right;
-  margin-right:5%;
+  margin-right:5%; /*ruimte tussen rechterkant van pagina en tekst*/
   margin-top:50px;
   border-style: solid;
   border:3px;
@@ -155,13 +156,13 @@ li a:hover { /*hover*/
 
 .nova { /*plaatje hond*/
   float:right;
-  margin-right:2%;
+  margin-right:2%; /*ruimte tussen rechterkant van pagina en afbeelding*/
   margin-top:10px;
 }
 
 .uitlegbinair { /*plaatje uitleg binair stelsel*/
   float: right;
-  margin-right:5%;
+  margin-right:5%; /*ruimte tussen rechterkant van pagina en afbeelding*/
 }
 
 .filmpjebinair { /*filmpje uitleg binair stelsel*/
