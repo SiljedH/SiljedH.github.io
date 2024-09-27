@@ -62,7 +62,7 @@ p {
 
 .algemeen{
   background-color:darksalmon;
-  
+
 }
 
 .kleur1{ /*eerst paragraaf kleurmodellen*/
@@ -218,13 +218,11 @@ margin-right:5%;
 }
 
 .column { /*kolom bij compressie*/
-  float: left;
   width: 50%;
   padding: 15px;
   display:inline;
 }
 
-/* Clear floats after the columns */
 .row::after {
   content: "";
   display: table;
