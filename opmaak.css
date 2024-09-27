@@ -32,6 +32,8 @@ p {
   color:white;
   padding:10px;
   text-align:center;
+  display:block;
+  margin:0px;
 }
 
 .voorstellen { /*eerste tekst over mezelf, het voorstellen*/
