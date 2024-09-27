@@ -4,9 +4,8 @@ body {
 
 h1{ /*titel per pagina*/
   color:black; /*kleur van de tekst*/
-  padding:lightpink;
-  margin-bottom: 10px;
-  margin-left: 20px;
+  margin-bottom: 10px; /*ruimte onder tekst en volgende stukje tekst*/
+  margin-left: 20px; /*ruimte tussen linkerkant van pagina en tekst*/
   margin-top:20px;
   font-family:fantasy; /*lettertype*/
 }
@@ -15,7 +14,7 @@ p {
   color:rgb(0, 0, 0); /*algemene paragraaf*/
   float:left;
   font-size:20px; /*lettergrootte*/
-  margin-left:2%;
+  margin-left:2%; /*ruimte tussen linkerkant van pagina en tekst*/
   margin-right:2%;
 }
 
@@ -41,23 +40,23 @@ p {
 .voorstellen { /*eerste tekst over mezelf, het voorstellen*/
   width:60%;
   font-size:20px;
-  margin-left:2%;
+  margin-left:2%; /*ruimte tussen linkerkant van pagina en tekst*/
 }
 
 .huisdieren { /*paragraaf over huisdieren*/
-  margin-left:2%;
+  margin-left:2%; /*ruimte tussen linkerkant van pagina en tekst*/
   font-size:20px;
   width:60%;
 }
 
 .hobbys { /*paragraaf over hobby's*/
-  margin-left:2%;
+  margin-left:2%; /*ruimte tussen linkerkant van pagina en tekst*/
   font-size:20px;
   width:60%;
 }
 
 .studie { /*paragraaf over studies*/
-  margin-left:2%;
+  margin-left:2%; /*ruimte tussen linkerkant van pagina en tekst*/
   font-size:20px;
   width:60%;
 }
@@ -70,7 +69,7 @@ p {
 
 .kleur1{ /*eerst paragraaf kleurmodellen*/
   font-size:20px; /*letter grootte*/
-  margin-left:2%;
+  margin-left:2%; /*ruimte tussen linkerkant van pagina en tekst*/
   border:3px; /*dikte rand om tekst*/
   border-color:rgb(20, 71, 158); /*kleur rand om tekst*/
   border-style:dashed; /*stijl van de rand om tekst*/
@@ -79,17 +78,17 @@ p {
 .kleur2{ /*tweede paragraaf kleurmodellen, mengen van kleuren*/
   width:50%;
   font-size:20px;
-  margin-left:2%;
+  margin-left:2%; /*ruimte tussen linkerkant van pagina en tekst*/
 }
 .extra{ /*laatste paragraaf kleurmodellen, CMY*/
   margin-top: 5px;
-  margin-left:2%;
+  margin-left:2%; /*ruimte tussen linkerkant van pagina en tekst*/
   font-size:20px;
 }
 .binairkop{ /*tekst onder titel bij binair stelsel*/
   font-size:23px;
   text-align:center;
-  margin-left:2%;
+  margin-left:2%; /*ruimte tussen linkerkant van pagina en tekst*/
   background-color:rgba(20, 71, 158, 0.383);
   display:block;
   padding:15px; /*ruimte tussen tekst en zijkant achtergrond kleur*/
@@ -97,7 +96,7 @@ p {
 }
 .binair1 { /*eerste paragraaf binair stelsel, verschil getallensysteem*/
   width:60%;
-  margin-left:2%;
+  margin-left:2%; /*ruimte tussen linkerkant van pagina en tekst*/
   font-size:20px;
 }
 
@@ -108,6 +107,7 @@ p {
   border-color:darkblue;
   padding:10px;
   font-size:20px;
+  margin-left:50%;
 }
 
 .p_vorm { /*paragraaf bitmap- en vectorafbeeldingen, 2 manieren opslaan*/
