@@ -182,11 +182,11 @@ li a:hover { /*hover*/
   margin-left:auto;
   margin-right:auto;
   width:50%;
-  margin-bottom:5px;
+  margin-bottom:5px; /*ruimte tussen footer en spel*/
 }
 .cirkels { /*plaatje kleurencirkels*/
-border: 3px solid;
-border-color:rgb(20, 71, 158);
+border: 3px solid; /*dikte en stijl rand rond afbeelding*/
+border-color:rgb(20, 71, 158); /*kleur rand rond afbeelding*/
 float:right; /*afbeelding begint aan de rechterkant van de pagina*/
 margin-right:5%; /*ruimte tussen rechterkant van pagina en afbeelding*/
 margin-bottom:5px; /*ruimte tussen onderkant afbeelding en tekst*/
@@ -196,26 +196,26 @@ margin-bottom:5px; /*ruimte tussen onderkant afbeelding en tekst*/
   margin-left:5%; /*ruimte tussen linkerkant van pagina en afbeelding*/
 }
 
-.verschil_b_v { /*verschil bitmap- en vectorafbeelding*/
+.verschil_b_v { /*plaatje verschil bitmap- en vectorafbeelding*/
   margin-left:2%; /*ruimte tussen linkerkant van pagina en afbeelding*/
   margin-bottom:5px; /*ruimte tussen afbeelding en het volgende kopje*/
-  border:3px solid;
-  border-color:black;
+  border:3px solid; /*dikte en stijl rand rond afbeelding*/
+  border-color:black; /*kleur rand rond afbeelding*/
 }
 .tabel{ /* tabel waarden sterkte geluid, omgezet naar binair stelsel*/
   margin-left:2%; /*ruimte tussen linkerkant van pagina en tabel*/
-  border:3px solid;
-  border-color:black;
+  border:3px solid; /*dikte en stijl rand rond tabel*/
+  border-color:black;  /*kleur rand rond tabel*/
 }
 .grafiek{ /*grafiek bij waarden tabel sterkte geluid, omgezet naar binair stelsel*/
   margin-left:2%; /*ruimte tussen linkerkant van pagina en grafiek*/
-  border:3px solid;
-  border-color:black;
+  border:3px solid; /*dikte en stijl rand rond grafiek*/
+  border-color:black;  /*kleur rand rond grafiek*/
 }
 .bloem{ /*plaatje uitleg bij lossy compression*/
   margin-left:2%; /*ruimte tussen linkerkant van pagina en afbeelding*/
-  border:3px solid;
-  border-color:black;
+  border:3px solid; /*dikte en stijl rand rond afbeelding*/
+  border-color:black;  /*kleur rand rond afbeelding*/
 }
 
 .column { /*kolom bij compressie*/
