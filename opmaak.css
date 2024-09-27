@@ -113,13 +113,13 @@ p {
 
 .p_vorm { /*paragraaf bitmap- en vectorafbeeldingen, 2 manieren opslaan*/
   width:60%; /*breedte van de tekst*/
-  float:right;
+  float:right; /*paragraaf komt aan de rechterkant van de pagina*/
   margin-right:5%; /*ruimte tussen rechterkant van pagina en tekst*/
   margin-top:50px; /*ruimte tussen tekst en tekst erboven*/
 }
 
 .samplerate { /*laatste paragraaf bitmap- en vectorafbeeldingen over sample rate*/
-  float:right;
+  float:right; /*paragraaf komt aan de rechterkant van de pagina*/
   width:45%; /*breedte van de tekst*/
   margin-top:40px; /*ruimte tussen tekst en tekst erboven*/
 }
@@ -132,33 +132,32 @@ ul { /*menu*/
   background-color:rgb(20, 71, 158);
 }
 li { /*menu*/
-  float:left;
+  float:left; /*menu begint aan de linkerkant van de pagina*/
 
 }
 li a { /*één pagina van het menu*/
   display:block;
-  padding: 14px 40px;
-  color:rgb(255, 253, 255);
+  padding: 14px 40px; /*ruimte tussen tekst en einde achtergrondkleur*/
+  color:rgb(255, 253, 255); /*kleur tekst*/
   text-align: center;
   font-size:20px; /*letter grootte*/
 }
-li a:hover { /*hover*/
-  background-color:rgb(253, 210, 216);  
-  background-color:lightpink;
+li a:hover { /*hover*/ 
+  background-color:lightpink; /*achtergrondkleur hover*/
 }
 
-.active {
-  background-color:lightpink;
+.active { /*hover van pagina die open staat*/
+  background-color:lightpink; /*achtergondkleur hover*/
 }
 
 .nova { /*plaatje hond*/
-  float:right;
+  float:right; /*afbeelding begint aan der rechterkant van de pagina*/
   margin-right:2%; /*ruimte tussen rechterkant van pagina en afbeelding*/
   margin-top:10px; /*ruimte tussen het menu en het plaatje*/
 }
 
 .uitlegbinair { /*plaatje uitleg binair stelsel*/
-  float: right;
+  float: right; /*afbeelding begint aan de rechterkant van de pagina*/
   margin-right:5%; /*ruimte tussen rechterkant van pagina en afbeelding*/
 }
 
@@ -188,7 +187,7 @@ li a:hover { /*hover*/
 .cirkels { /*plaatje kleurencirkels*/
 border: 3px solid;
 border-color:rgb(20, 71, 158);
-float:right;
+float:right; /*afbeelding begint aan de rechterkant van de pagina*/
 margin-right:5%; /*ruimte tussen rechterkant van pagina en afbeelding*/
 margin-bottom:5px; /*ruimte tussen onderkant afbeelding en tekst*/
 }
