@@ -220,6 +220,6 @@ margin-bottom:5px; /*ruimte tussen onderkant afbeelding en tekst*/
 }
 
 .compressie1 {
-  width:50%;
+  width:50%; /*breedte van tekst*/
   float:left; /*tekst begint aan de linkerkant van de pagina*/
 }
