@@ -92,7 +92,8 @@ p {
   margin-left:2%;
   background-color:rgba(20, 71, 158, 0.383);
   display:block;
-  padding:15px;
+  padding:15px; /*ruimte tussen tekst en zijkant achtergrond kleur*/
+  border-radius:15px; /*afronding van hoekjes achtergrond*/
 }
 .binair1 { /*eerste paragraaf binair stelsel, verschil getallensysteem*/
   width:60%;
