@@ -107,8 +107,8 @@ p {
   border-color:darkblue; /*kleur rand rond tekst*/
   padding:10px; /*ruimte tussen rand en tekst*/
   font-size:20px; /*letter grootte*/
-  margin-left:20%; /*ruimte tussen linkerkant van pagina en tekst*/
-  width:60%; /*breedte van de tekst*/
+  margin-left:15%; /*ruimte tussen linkerkant van pagina en tekst*/
+  width:70%; /*breedte van de tekst*/
 }
 
 .p_vorm { /*paragraaf bitmap- en vectorafbeeldingen, 2 manieren opslaan*/
