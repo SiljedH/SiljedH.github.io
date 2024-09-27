@@ -192,6 +192,7 @@ border: 3px solid;
 border-color:rgb(20, 71, 158);
 float:right;
 margin-right:5%; /*ruimte tussen rechterkant van pagina en afbeelding*/
+margin-bottom:5px;
 }
 
 .vormen { /*plaatje opslaan vectorafbeelding*/
