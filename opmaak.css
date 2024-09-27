@@ -124,6 +124,12 @@ p {
   margin-top:40px; /*ruimte tussen tekst en tekst erboven*/
 }
 
+.compressie {
+  border-style:dotted; /*dikte rand rond tekst*/
+  border:3px; /*dikte rand rond tekst*/
+  border-color:lightpink; /*kleur rand rond tekst*/
+}
+
 ul { /*menu*/
   list-style-type: none;
   margin: 0;
