@@ -6,16 +6,16 @@ h1{ /*titel per pagina*/
   color:black; /*kleur van de tekst*/
   margin-bottom: 10px; /*ruimte onder tekst en volgende stukje tekst*/
   margin-left: 20px; /*ruimte tussen linkerkant van pagina en tekst*/
-  margin-top:20px;
+  margin-top:20px; /*ruimte tussen het menu en tekst*/
   font-family:fantasy; /*lettertype*/
 }
 
 p {
   color:rgb(0, 0, 0); /*algemene paragraaf*/
-  float:left;
+  float:left; /*paragraaf komt aan de linkerkant van de pagina*/
   font-size:20px; /*lettergrootte*/
   margin-left:2%; /*ruimte tussen linkerkant van pagina en tekst*/
-  margin-right:2%;
+  margin-right:2%; /*ruimte tussen rechterkant van pagina en tekst*/
 }
 
 .subkop {/*subkopjes*/
@@ -30,7 +30,7 @@ p {
 .footer {
   background-color:rgb(20, 71, 158);
   color:white; /*tekstkleur*/
-  padding:10px;
+  padding:10px; /*ruimte tussen tekst en einde achtergrondkleur*/
   text-align:center;
   display:block;
   margin:0px;
@@ -178,6 +178,7 @@ li a:hover { /*hover*/
   margin-left:auto;
   margin-right:auto;
   width:50%;
+  margin-bottom:3px;
 }
 
 .spelbinair{ /*spelletje binair stelsel*/
@@ -192,7 +193,7 @@ border: 3px solid;
 border-color:rgb(20, 71, 158);
 float:right;
 margin-right:5%; /*ruimte tussen rechterkant van pagina en afbeelding*/
-margin-bottom:5px;
+margin-bottom:5px; /*ruimte tussen onderkant afbeelding en tekst*/
 }
 
 .vormen { /*plaatje opslaan vectorafbeelding*/
