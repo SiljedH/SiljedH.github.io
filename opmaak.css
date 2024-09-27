@@ -191,31 +191,31 @@ li a:hover { /*hover*/
 border: 3px solid;
 border-color:rgb(20, 71, 158);
 float:right;
-margin-right:5%;
+margin-right:5%; /*ruimte tussen rechterkant van pagina en afbeelding*/
 }
 
 .vormen { /*plaatje opslaan vectorafbeelding*/
-  margin-left:5%;
+  margin-left:5%; /*ruimte tussen linkerkant van pagina en afbeelding*/
 }
 
 .verschil_b_v { /*verschil bitmap- en vectorafbeelding*/
-  margin-left:2%;
-  margin-bottom:5px;
+  margin-left:2%; /*ruimte tussen linkerkant van pagina en afbeelding*/
+  margin-bottom:5px; /*ruimte tussen afbeelding en het volgende kopje*/
   border:3px solid;
   border-color:black;
 }
 .tabel{ /* tabel waarden sterkte geluid, omgezet naar binair stelsel*/
-  margin-left:2%;
+  margin-left:2%; /*ruimte tussen linkerkant van pagina en tabel*/
   border:3px solid;
   border-color:black;
 }
 .grafiek{ /*grafiek bij waarden tabel sterkte geluid, omgezet naar binair stelsel*/
-  margin-left:2%;
+  margin-left:2%; /*ruimte tussen linkerkant van pagina en grafiek*/
   border:3px solid;
   border-color:black;
 }
 .bloem{ /*plaatje uitleg bij lossy compression*/
-  margin-left:2%;
+  margin-left:2%; /*ruimte tussen linkerkant van pagina en afbeelding*/
   border:3px solid;
   border-color:black;
 }
