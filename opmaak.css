@@ -121,7 +121,7 @@ p {
 .samplerate { /*laatste paragraaf bitmap- en vectorafbeeldingen over sample rate*/
   float:right;
   width:45%; /*breedte van de tekst*/
-  margin-top:40px;
+  margin-top:40px; /*ruimte tussen tekst en tekst erboven*/
 }
 
 ul { /*menu*/
