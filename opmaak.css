@@ -61,9 +61,9 @@ p {
 }
 
 .algemeen{ /*paragrafen algemeen*/
-  background-color:rgb(240, 152, 196);
-  border-radius:15px;
-  padding:20px;
+  background-color:rgb(240, 152, 196); /*achtergrond kleur tekst*/
+  border-radius:15px; /*afronding van hoekjes achtergrond*/
+  padding:20px; /*ruimte tussen tekst en zijkant achtergrond kleur*/
 }
 
 .kleur1{ /*eerst paragraaf kleurmodellen*/
