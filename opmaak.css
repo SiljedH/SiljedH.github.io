@@ -12,7 +12,7 @@ h1{ /*titel per pagina*/
 }
 
 p {
-  color:rgb(0, 0, 0); /*paragraaf*/
+  color:rgb(0, 0, 0); /*algemene paragraaf*/
   float:left;
   font-size:20px; /*lettergrootte*/
   margin-left:2%;
@@ -20,13 +20,13 @@ p {
 }
 
 .subkop {/*subkopjes*/
-  font-size:25px;
-  color:rgb(0, 0, 0);
-  background-color:lightpink;
+  font-size:25px; /*letter grootte*/
+  color:rgb(0, 0, 0); /*tekst kleur*/
+  background-color:lightpink; /*achtergrond kleur tekst*/
   display:block;
   font-family:cursive; /*lettertype*/
   border-radius:15px; /*afronding van hoekjes achtergrond*/
-  padding:20px; /*ruimte tussen tekst en zijkant achtergrond kleur*/
+  padding:15px; /*ruimte tussen tekst en zijkant achtergrond kleur*/
 }
 .footer {
   background-color:rgb(20, 71, 158);
